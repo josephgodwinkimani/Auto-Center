@@ -1,0 +1,11 @@
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.exe.config
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.exe
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.pdb
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.xml
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\obj\Debug\VB_Auto_Center.Form1.resources
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\obj\Debug\VB_Auto_Center.Resources.resources
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.vbproj.GenerateResource.Cache
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.exe
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.xml
+c:\users\joseph godwinke\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.pdb
+C:\Users\Joseph GodwinKE\documents\visual studio 2013\Projects\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.vbprojResolveAssemblyReference.cache
